@@ -1,7 +1,9 @@
+@media only screen and (max-width: 600px) {
 body{
     background-color: rgba(200, 197, 191, 0.74);
     
    
+}
 }
 
 .first{
